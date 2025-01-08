@@ -4,8 +4,8 @@ This is where yll find all your c programs !!
 ## Stacks
 ## Queues
 ## Linked list
-###(SLL)
-###(DLL)
+### (SLL)
+### (DLL)
 ## Trees 
 ## Graphs
 # Memory Management
