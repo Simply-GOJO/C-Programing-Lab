@@ -8,4 +8,3 @@ This is where yll find all your c programs !!
 ### (DLL)
 ## Trees 
 ## Graphs
-# Memory Management
